@@ -14,3 +14,4 @@ https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?
 - C#
 - .NET
 - ASP.NET Core MVC
+- SQL Lite
